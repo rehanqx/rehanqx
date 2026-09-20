@@ -9,7 +9,7 @@
 
 
 <h4 align="center">
-Web Developer | DevOps Engineer | Security Analyst | Open Source Contributor | Founder @ TeamCyberOps
+Founder @ TeamCyberOps | Web Developer | DevOps Engineer | Security Analyst | Open Source Contributor
 </h4>
 
 ---
